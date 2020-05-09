@@ -17,12 +17,12 @@ Add the following line to your pystatus config file:
 ```
 order += "pypower"
 ```
-Make sure you pass location of this module in your i3 config.
+Make sure you pass location of this module in your i3config.
 It should look like this:
 ```
 bar {
       ...
-
+      
       status_command py3status -i /path/to/this/pypower-module/
       
       ...
