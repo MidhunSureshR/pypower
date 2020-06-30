@@ -6,7 +6,7 @@ A small but effective py3status module for displaying power details on py3status
 The default battery module for py3status ( [battery_level](https://py3status.readthedocs.io/en/latest/modules.html#battery-level) ) does not work on some devices.
 This is an alternative module that can be used in such cases. 
 
-**Note: This was actually made for personal use and therefore do not include a lot of customization. There is a lot of room for improvement.**
+**Note: This was made as a quick fix and contains pretty bad code. There is a lot of room for improvement.**
 
 
 ## Prerequisites
